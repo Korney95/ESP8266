@@ -3,7 +3,6 @@
 #include "ESP8266WiFi.h"
 #include <aREST.h>
 #include "DHT.h" 
-new string
 // DHT11 sensor pins
 #define DHTPIN 5
 #define DHTTYPE DHT11
