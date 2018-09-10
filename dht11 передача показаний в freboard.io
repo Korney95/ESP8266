@@ -1,4 +1,4 @@
-// подключается dht11 +3v, g, out D1, esp8266 NODEMCU
+// Pinout dht11 +3v, g, out D1, esp8266 NODEMCU
 // Import required libraries
 #include "ESP8266WiFi.h"
 #include <aREST.h>
